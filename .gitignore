@@ -1,13 +1,3 @@
-# Visual studio temp files
-*.TMP
-*.autosave
-*.user
-todo
-build-input-overlay*/
-*.iss
-*.vscode/
-docs/cct/server.sh
-cmake-*/
-.idea/*
-
-*.generated.h
+.vscode/launch.json
+debug.log
+plugins/StereoMe/debug.log
